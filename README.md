@@ -21,4 +21,4 @@ It shows how to implement a smooth pager with dynamic scaling and alpha changes 
    git clone https://github.com/abdulqadirtr/jetpack-compose-pager.git
 
 
-![Pager Demo](assets/pager_layout.gif)
+![Pager Demo](https://github.com/abdulqadirtr/jetpack-compose-pager/blob/master/app/src/main/assets/pager_layout.gif)
